@@ -4,14 +4,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
-<p align = "center"><img src="C:\Users\ANIKET\Desktop\webd assign\iiita1.jpg" alt="iiita" style="width:100px;height:100px;"/></p>
+<p align = "center"><img src="\iiita1.jpg" alt="iiita" style="width:100px;height:100px;"/></p>
 <h1 style="background-color: rgb(158, 231, 255); color: red;"align="center">INDIAN INSTITUTE OF INFORMATION TECHNOLOGY, ALLAHABAD</h1>
 
 <h3 align="center">PROPOSED FOR: INDIAN ARMY - LADAKH SCOUTS</h3>
 <h2 style="color:red;" align="center"> HUMAN FOLLOWING BOT</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iiitprayagraj&label=Profile%20views&color=0e75b6&style=flat" alt="iiitprayagraj" /> </p>
-<p align="center"> <img src="C:\Users\ANIKET\Desktop\webd assign\MOT_poster.png" alt="iiitprayagraj" height = "700" width = "900" /> </p>
+
+<p align="center"> <img src="\MOT_poster.png" alt="iiitprayagraj" height = "700" width = "900" /> </p>
 
 
 
@@ -23,8 +23,8 @@
     <li>Average wind Speed : 1.4 m/s ( Max Speed 6 m/s)    </li>
     <li>Max payload weight of 120Kg.    </li>
     <li>Independent articulation & independent suspension to be given to wheels.    </li>
-    <li>Design has been considered keeping in view the fact that it has to be used in combat environment.</li>
-    <li>GROUND CLEARENCE: Wheel Clearance: 4 inches.    </li>
+    <li>Design has been considered keeping in view the fact that it has to be used in combact environment.</li>
+    <li>GROUND CLEARANCE: Wheel Clearance: 4 inches.    </li>
     <li> Suspension Clearance: 3inches.</li>
 </ul>
 
@@ -50,7 +50,7 @@
     <strong>Efficiency:</strong> The method proposed by YOLOv7 can effectively <i>reduce about 40% parameters and 50% computation of state-of-the-art real-time object detector</i>, and has faster inference speed and higher detection accuracy.
 </li>
 <h3>COMPARISON DESCRIPTION: </h3>
-<p align="left"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/26833433/245965939-5e1e0420-8122-4c79-b8d0-2860aa79af92.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240420%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240420T184906Z&X-Amz-Expires=300&X-Amz-Signature=efe59426daceafff923ccc3af3b5b54cfca327cffba46cd70668894a098cdbc3&X-Amz-SignedHeaders=host&actor_id=158501469&key_id=0&repo_id=535360445" alt="iiitprayagraj" width="800" height="500"/> </p>
+<p align="left"> <img src="comp_table.png" width="800" height="500"/> </p>
 <p><h3>
 <b>Comparison of state-of-the-art object detectors: </b>
 </h3>
