@@ -11,7 +11,7 @@
 <h2 style="color:red;" align="center"> HUMAN FOLLOWING BOT</h2>
 
 
-<p align="center"> <img src="\MOT_poster.png" alt="iiitprayagraj" height = "700" width = "900" /> </p>
+<p align="center"> <img src="\MOT_fp.jpeg" alt="iiitprayagraj" height = "700" width = "900" /> </p>
 
 
 
